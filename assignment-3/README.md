@@ -159,16 +159,3 @@ assignment-3/
 ├── theory_answers.md
 └── screenshots/
 ```
-
----
-
-# Conclusion
-
-Successfully built a semantic search engine using:
-
-- Sentence Transformers for embedding generation
-- FAISS for vector indexing and retrieval
-- Cosine similarity using normalized vectors
-- Interactive CLI for continuous querying
-
-The system retrieves semantically similar knowledge base entries even when the user's query wording differs from the stored knowledge base sentences.
