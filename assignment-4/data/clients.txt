@@ -1,0 +1,11 @@
+Acme Corp is a SaaS company that provides CRM solutions.
+
+Primary contact: John Smith (CTO)
+
+Current subscription: Enterprise Plan
+
+Contract renewal date: September 2026
+
+Client is interested in advanced analytics features.
+
+Preferred communication channel: Email
